@@ -1,0 +1,58 @@
+body
+{
+	background: #ef32d9;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #89fffd, #ef32d9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #89fffd, #ef32d9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   text-align: center;
+
+}
+.login_div1{
+	margin-left: 450px;
+	margin-top: 40px;
+}
+.login_div2{
+	margin-top: 40px;
+	margin-left: 435px;
+}
+  #login{
+	  margin-top: 70px;
+	  margin-right: 20px;
+	  margin-left: 20px;
+
+  }
+
+  #player1_name, #player2_name
+  {
+	display: inline-block;
+	margin-left: 20px;
+  }
+  #result{
+	  margin-right:90%;
+	  border-radius:20px;
+	  border-color: black;
+  }
+
+  #container{
+	  margin-bottom:200px;
+  }
+
+
+
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background:white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+height:80;
+text-align: left;
+}
